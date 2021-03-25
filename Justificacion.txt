@@ -1,0 +1,8 @@
+La estructura del proyecto es Clean Architecture, elegi esta estructura ya 
+que separa la logica de manera optima haciendo que los cambios en esta sean 
+mucho mas sencillos de aplicar, ademas que ya habia realizado anteriormente
+un proyecto con esta arquitectura y me gusto ya que con pequeños cambios en 
+la fase de desarrollo podemos tener todo apuntando a data real, aun asi tambien 
+he usado bloc, la apk se encuentra funcionando y la adjunto en el correo con el link
+del repositorio del proyecto, se puede descargar, instalar y usar ya que funciona con 
+datos en la nube (firebase, cloudfunctions, streamchat y storage de firebase).
